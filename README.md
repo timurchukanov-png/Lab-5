@@ -90,4 +90,5 @@ Use this [web-compiler](https://cpp.sh/) to check the code out. In this example,
 
 ## The image I like
 Here is the image I personally like: it represents a place where I have been to once and which still makes me feel better.
+
 ![Favorite place](./images/6a6a4b05-e8ed-4480-a752-7ff53403519b.jpg)
