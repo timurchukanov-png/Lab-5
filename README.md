@@ -32,15 +32,21 @@ Here are some of my favourite math formulas:
 $$
 y = \alpha x^2 + \beta x + \gamma
 $$
+
 ,- this is the parabolic function formula: $\alpha,\beta,\gamma$ are coefficients, and $x$ denotes input variable;
+
 $$
 y = \frac{k_1}{k_2x + c}
 $$
+
 ,- this is the modified hyperbolic function: $k_1,k_2$ denote coefficients, $x$ - input variable, $c$ - constant value;
+
 $$
 D = b^2 - 4ac, x_1 = \frac{-b+\sqrt D}{2a}, x_2 = \frac{-b-\sqrt D}{2a}
 $$
+
 ,- this is how to solve quadratic equation: $D$ is discriminant, $a, b, c$ denote equation's coefficients, $x_1, x_2$ denote the solutions;
+
 $$
 \begin{cases}
 2x+3y-z=7\\
@@ -48,11 +54,15 @@ $$
 -x+2y+5x=11
 \end{cases}
 $$
+
 ,- this is a system of linear equations: $x, y, z$ denote the unknown variables;
+
 $$
 \sum_{i=1}^{n}i = \frac{n(n+1)}{2}
 $$
+
 ,- this is a formula for finding the sum of first $N$ positive integers;
+
 $$
 I_n = \begin{bmatrix}
 1 & 0 & \cdots & 0 \\
@@ -61,6 +71,7 @@ I_n = \begin{bmatrix}
 0 & 0 & \cdots & 1
 \end{bmatrix}
 $$
+
 ,- this is an identity matrix of rank $N$.
 
 ## My coding skills
