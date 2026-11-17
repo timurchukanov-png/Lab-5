@@ -36,6 +36,18 @@ $$
 ,- this is the parabolic function formula: $\alpha,\beta,\gamma$ are coefficients, and $x$ denotes input variable;
 
 $$
+S = \pi R^2
+$$
+
+,- this is the area of a circle formula: $S$ denotes area, $\pi$ is the mathematical constant pi, and $R$ is the radius;
+
+$$
+F = \mu \cdot \rho \cdot g \cdot \lambda \cdot \tau
+$$
+
+,- this is the friction force formula for a sliding block: $F$ denotes friction force, $\mu$ is the friction coefficient, $\rho$ is material density, $g$ is gravitational acceleration, $\lambda$ denotes block thickness, and $\tau$ is the contact area;
+
+$$
 y = \frac{k_1}{k_2x + c}
 $$
 
